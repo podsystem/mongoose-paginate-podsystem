@@ -2,7 +2,7 @@
   "author": "Antonio Manuel Pérez López <antonio.perez@podsystem.com>",
   "name": "mongoose-paginate-podsystem",
   "description": "Fork of mongoose-paginate for limit count results. Plugin for Mongoose schemas to easily add paginated queries and results",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "contributors": [
     {
       "name": "Edward Hotchkiss",
